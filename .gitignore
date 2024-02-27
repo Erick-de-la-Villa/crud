@@ -1,0 +1,34 @@
+/frontend/CrudApp/node_modules
+/backend/node_modules
+
+
+# Expo
+/frontend/CrudApp/.expo/
+/frontend/CrudApp/dist/
+/frontend/CrudApp/web-build/
+
+# Native
+/frontend/CrudApp/*.orig.*
+/frontend/CrudApp/*.jks
+/frontend/CrudApp/*.p8
+/frontend/CrudApp/*.p12
+/frontend/CrudApp/*.key
+/frontend/CrudApp/*.mobileprovision
+
+# Metro
+/frontend/CrudApp/.metro-health-check*
+
+# debug
+/frontend/CrudApp/npm-debug.*
+/frontend/CrudApp/yarn-debug.*
+/frontend/CrudApp/yarn-error.*
+
+# macOS
+/frontend/CrudApp/.DS_Store
+/frontend/CrudApp/*.pem
+
+# local env files
+/frontend/CrudApp/.env*.local
+
+# typescript
+/frontend/CrudApp/*.tsbuildinfo
